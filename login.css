@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    display: flex;
+}
+.bcground{
+    margin-left: 0px;
+    width: auto;
+    height: 789px;
+    width: 577px;
+    image-rendering: optimizeQuality;
+}
+H1{
+    margin-top: 0;
+    font-size: 100px;
+    font-family: "Italiana";
+    color: white;
+}
+.login{
+    background-color: #9DBBD4;
+    text-align: center;
+    width: 950px;
+    height: 789px;
+}
+.sla{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+}
+.cad{
+    font-family: "Inter";
+    background-color: rgba(255, 255, 255, 0.405);
+    color: white;
+    width: 385px;
+    height: 479px;
+    border-radius: 30px; 
+}
+.dados{
+    text-align: left;
+    width: 293px;
+    margin-right: 46px;
+    margin-left: 46px;
+}
+.apps{
+    margin-top: 20px;
+    height: 26px;   
+}
+img{
+    margin-right: 20.5px;
+    margin-left: 20.5px;
+    height: 26px;
+    width: 26px;
+}
+h4, p, button{
+    font-size: 20px;
+}
+input{
+    border: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.349);
+    border-radius: 20px;
+    width: 293px;
+    height: 44px;
+}
+button{
+    margin-top: 40px;
+    background-color: #799FFF;
+    color: white;
+    border-radius: 25px;
+    border: none;
+    height: 52px;
+    width: 133px;
+}

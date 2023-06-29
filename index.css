@@ -1,0 +1,22 @@
+body{
+    background-color: #E6F4FF;
+    margin: 0px;
+}
+header{
+    color: white;
+    background-color: #A5C2DA;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+}
+h1{
+    font-family: "Italiana";
+    margin-left: 25px;
+    font-size: 40px;
+}
+nav{
+    background-color: black;
+    width: 80%;
+}
